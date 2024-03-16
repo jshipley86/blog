@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "Jason Shipley";
 export const SITE_DESCRIPTION =
-  "Welcome to my blog!";
+  "Jason Shipley";
 export const TWITTER_HANDLE = "@yourtwitterhandle";
 export const MY_NAME = "Jason Shipley";
 
